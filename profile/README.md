@@ -15,9 +15,9 @@ Our focus is on offline-first experiences, business systems, and creative apps.
 
 | Project | Description | Status | Links |
 |---------|-------------|--------|-------|
-| **Pulsar** | Offline-first password manager with strong encryption | Active | [Repo](https://github.com/RootBay/pulsar) |
-| **Avelonia** | Business system tailored for assistance companies | Active | [Repo](https://github.com/RootBay/avelonia) |
-| **Meatify** | Spotify-inspired music application | Active | [Repo](https://github.com/RootBay/meatify) |
+| **Pulsar** | Offline-first password manager with strong encryption | Active | [Repo](https://github.com/Rootbay/pulsar) |
+| **Avelonia** | Business system tailored for assistance companies | Active | [Repo](https://github.com/Rootbay/avelonia) |
+| **Meatify** | Spotify-inspired music application | Active | [Repo](https://github.com/Rootbay/meatify) |
 
 ---
 
