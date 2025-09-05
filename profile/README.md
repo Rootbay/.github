@@ -1,4 +1,4 @@
-# RootBay
+# Rootbay
 
 **Pragmatic, open tools for modern apps and developer workflows.**
 
